@@ -1,4 +1,5 @@
 PARTS
+
 I used 2 servo motors:
 - EF92A (180 degree) micro:servo
 - FEETECH (Fitec) FS90R Continuous Rotation Servo (9g) >> https://www.addicore.com/FS90R-Servo-p/ad314.htm

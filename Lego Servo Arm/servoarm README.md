@@ -16,4 +16,5 @@ LIMITATIONS of the code
 
 FYI
 The script servoarm.py is based off the Keyboard Control script at: https://sdk.sphero.com/docs/samples_content/raspberry_pi/python/keyboard_control_sample/
+
 It may be worth looking up "Asynchronous programming" for a better understanding of the Sphero SDK library.
